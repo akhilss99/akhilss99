@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Haskell, Databases, Distributed Systems**
 
-- 💬 Ask me about **Analytics, Machine Learning, Distributed Systems**
+- 💬 Ask me about **Analytics, Machine Learning, Data Engineering**
 
 - 📫 How to reach me **akhilss61@gmail.com**
 
